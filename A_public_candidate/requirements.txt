@@ -1,0 +1,6 @@
+torch
+torchvision
+torch-optimizer
+networkx
+numpy
+matplotlib

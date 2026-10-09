@@ -1,0 +1,9 @@
+{
+  "flattened_width": 8,
+  "parts": [
+    [
+      8
+    ]
+  ],
+  "raw_bits_rule": "1 if raw MRP-end value > 0 else 0"
+}
