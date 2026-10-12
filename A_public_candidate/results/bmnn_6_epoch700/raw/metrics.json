@@ -1,6 +1,0 @@
-{
-  "sample_count": 10000,
-  "correct": 9142,
-  "accuracy": 0.9142,
-  "nll_loss": 0.355784130859375
-}

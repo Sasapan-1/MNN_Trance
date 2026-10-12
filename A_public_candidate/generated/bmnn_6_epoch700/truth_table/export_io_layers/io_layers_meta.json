@@ -1,5 +1,0 @@
-{
-  "input_layer_file": "input_layer.pt",
-  "output_layer_file": "output_layer.pt",
-  "note": "PyTorch module保存。Vivado直接読込用ではなく、後段でparams/table変換するための中間保存。"
-}
