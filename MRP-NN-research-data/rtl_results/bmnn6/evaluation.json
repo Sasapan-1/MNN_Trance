@@ -1,0 +1,15 @@
+{
+  "sample_count": 10000,
+  "correct": 9240,
+  "accuracy": 0.924,
+  "width": 8,
+  "sv_output_path": "full10000.mem",
+  "sv_output_sha256": "F69F7106A8BE89307169EA945D7EB170FBE9CA5FCA319F3408604B7DDDA71748",
+  "predictions_path": "predictions.csv",
+  "truth_bits_path": "../../evaluation/bmnn6/truth/mrp_end_bits.pt",
+  "matching_end_bits": 80000,
+  "total_end_bits": 80000,
+  "matching_end_samples": 10000,
+  "classification_method": "Saved 8-to-10 output layer applied to each RTL MRP-end vector; argmax compared with MNIST test labels",
+  "reproduction_scope": "Standalone output-layer artifact and evaluator are not included; the model checkpoint and saved predictions are included"
+}

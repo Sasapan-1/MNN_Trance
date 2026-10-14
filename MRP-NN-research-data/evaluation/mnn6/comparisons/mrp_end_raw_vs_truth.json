@@ -1,0 +1,133 @@
+{
+  "left": "raw_binarized",
+  "right": "truth_table",
+  "sample_count": 10000,
+  "width": 8,
+  "match_count": 53390,
+  "total_bits": 80000,
+  "match_ratio": 0.667375,
+  "all_equal": false,
+  "mismatch_count": 26610,
+  "first_mismatches": [
+    {
+      "sample": 0,
+      "bit": 0,
+      "raw_binarized": 1,
+      "truth_table": 0
+    },
+    {
+      "sample": 0,
+      "bit": 2,
+      "raw_binarized": 0,
+      "truth_table": 1
+    },
+    {
+      "sample": 0,
+      "bit": 5,
+      "raw_binarized": 0,
+      "truth_table": 1
+    },
+    {
+      "sample": 1,
+      "bit": 1,
+      "raw_binarized": 1,
+      "truth_table": 0
+    },
+    {
+      "sample": 1,
+      "bit": 2,
+      "raw_binarized": 0,
+      "truth_table": 1
+    },
+    {
+      "sample": 1,
+      "bit": 3,
+      "raw_binarized": 0,
+      "truth_table": 1
+    },
+    {
+      "sample": 1,
+      "bit": 4,
+      "raw_binarized": 0,
+      "truth_table": 1
+    },
+    {
+      "sample": 2,
+      "bit": 3,
+      "raw_binarized": 0,
+      "truth_table": 1
+    },
+    {
+      "sample": 2,
+      "bit": 4,
+      "raw_binarized": 0,
+      "truth_table": 1
+    },
+    {
+      "sample": 3,
+      "bit": 1,
+      "raw_binarized": 0,
+      "truth_table": 1
+    },
+    {
+      "sample": 3,
+      "bit": 2,
+      "raw_binarized": 0,
+      "truth_table": 1
+    },
+    {
+      "sample": 3,
+      "bit": 4,
+      "raw_binarized": 0,
+      "truth_table": 1
+    },
+    {
+      "sample": 4,
+      "bit": 0,
+      "raw_binarized": 0,
+      "truth_table": 1
+    },
+    {
+      "sample": 4,
+      "bit": 6,
+      "raw_binarized": 0,
+      "truth_table": 1
+    },
+    {
+      "sample": 5,
+      "bit": 3,
+      "raw_binarized": 0,
+      "truth_table": 1
+    },
+    {
+      "sample": 5,
+      "bit": 4,
+      "raw_binarized": 0,
+      "truth_table": 1
+    },
+    {
+      "sample": 6,
+      "bit": 1,
+      "raw_binarized": 1,
+      "truth_table": 0
+    },
+    {
+      "sample": 6,
+      "bit": 2,
+      "raw_binarized": 0,
+      "truth_table": 1
+    },
+    {
+      "sample": 6,
+      "bit": 5,
+      "raw_binarized": 0,
+      "truth_table": 1
+    },
+    {
+      "sample": 6,
+      "bit": 7,
+      "raw_binarized": 0,
+      "truth_table": 1
+    }
+  ]
+}

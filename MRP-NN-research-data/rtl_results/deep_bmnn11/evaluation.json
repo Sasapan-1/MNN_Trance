@@ -1,0 +1,15 @@
+{
+  "sample_count": 10000,
+  "correct": 9229,
+  "accuracy": 0.9229,
+  "width": 8,
+  "sv_output_path": "full10000.mem",
+  "sv_output_sha256": "321948F6BC24F58C153F0F23CBCB8EF0D3930407D87BEAFD2FB1DB86A9E3F721",
+  "predictions_path": "predictions.csv",
+  "truth_bits_path": "../../evaluation/deep_bmnn11/truth/mrp_end_bits.pt",
+  "matching_end_bits": 80000,
+  "total_end_bits": 80000,
+  "matching_end_samples": 10000,
+  "classification_method": "Saved 8-to-10 output layer applied to each RTL MRP-end vector; argmax compared with MNIST test labels",
+  "reproduction_scope": "Retrospective evaluation of saved XSim outputs; original conversion-input manifest, standalone output-layer artifact, and evaluator are not included"
+}
