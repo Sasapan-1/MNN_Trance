@@ -4,11 +4,9 @@ This repository provides trained neural-network checkpoints and saved evaluation
 
 For the evaluation protocol, model configurations, and file descriptions, see [Evaluation Conditions](evaluation_conditions.md) (currently in Japanese).
 
-**Associated manuscript:** [Manuscript title and citation details to be added]
+Associated manuscript: A function synthesis and mapping framework for binarized neural networks on a memory-based reconfigurable processor
 
-**Corresponding author for the manuscript:** [Name and email address]
-
-**Repository maintainer / technical contact for data and code requests:** [Name and email address]
+Corresponding author for the manuscript and repository maintainer / technical contact for data and code requests:  KENTA SASAGAWA　sasa.e.work.3735@gmail.com
 
 ## Evaluation results
 
