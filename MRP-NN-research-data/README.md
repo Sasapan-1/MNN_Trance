@@ -55,7 +55,7 @@ This repository **does not include** the source code for training, inference, tr
 
 The underlying software and verification materials are **available upon reasonable request**. Please direct requests to the repository maintainer / technical contact listed above; access and sharing remain subject to applicable permissions and third-party rights. The manuscript's corresponding author can also coordinate requests with the current code maintainer.
 
-The published RTL results are saved outputs from previous simulations, not records of a new RTL run performed as part of this release. In particular, the 11-layer RTL classification results were evaluated retrospectively from previously saved XSim outputs; the original manifest for the corresponding conversion inputs was not retained. Further details are provided in [Evaluation Conditions](evaluation_conditions.md).
+The published RTL results are saved outputs from previous simulations, not records of a new RTL run performed as part of this release. In particular, the 11-layer RTL classification results were evaluated retrospectively from previously saved XSim outputs; the original manifest for the corresponding conversion inputs was not retained. Further details are provided in [Evaluation Conditions](evaluation_conditions_en.md).
 
 ## MNIST dataset
 
