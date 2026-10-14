@@ -40,6 +40,6 @@ Both RTL prediction CSV files agree with the corresponding truth-table-network p
 
 The 11-layer classification record was obtained by retrospectively evaluating 10,000 previously saved XSim outputs. All 80,000 RTL terminal bits and the classification predictions agree with the current truth-table evaluation. However, a separate manifest documenting the complete set of conversion inputs used at the time is no longer available. Agreement with the saved outputs must therefore be distinguished from complete traceability of the original input-generation process. These records do **not** constitute a new XSim run, synthesis or timing evaluation, or measurement on physical hardware.
 
-## Pre-Publication Checklist
+
 
 Confirm the final manuscript title, citation details, and contact information; the final numerical results reported in the manuscript; the rights to redistribute the models and evaluation materials; and the applicable terms of use. Once finalized, reflect the public repository URL and the scope of available non-public programs in the manuscript's Data availability statement.
