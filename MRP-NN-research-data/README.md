@@ -2,7 +2,7 @@
 
 This repository provides trained neural-network checkpoints and saved evaluation data associated with research on implementing neural networks on a memory-based reconfigurable processor (MRP), prepared for submission to *Integration, the VLSI Journal*. It distinguishes MNIST classification results for the original neural networks (NNs), their truth-table networks, and saved RTL simulation outputs.
 
-For the evaluation protocol, model configurations, and file descriptions, see [Evaluation Conditions](evaluation_conditions.md) (currently in Japanese).
+For the evaluation protocol, model configurations, and file descriptions, see [Evaluation Conditions](evaluation_conditions_en.md).
 
 Associated manuscript: A function synthesis and mapping framework for binarized neural networks on a memory-based reconfigurable processor
 
